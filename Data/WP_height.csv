@@ -1,0 +1,14 @@
+"Dominant.native","Invasive","M_UI","SE_UI","SS_UI","M_I","SE_I","SS_I","Uninvaded.richness","Invaded.richness","N_Root","I_Root","H.x","H.y","H_Diff","Diff"
+"Artemisia tridentata","Agropyron cristatum",15.3229,2.500529108,20,14.791625,2.47749666,20,-9999,-9999,0.508,0.4572,0.6096,NA,NA,-0.0352872992154705
+"Artemisia tridentata","Agropyron cristatum",2.386466667,0.284687573,6,2.164983333,0.516303463,6,-9999,-9999,0.508,0.4572,0.6096,NA,NA,-0.0974012270086684
+"Distichlis spicata","Spartina anglica",42.1493,1.9812,30,58.2526,1.9811,30,3,1,0.0508,NA,1.8,0.35052,1.63612417769661,0.323570649687547
+"Festuca campestris","Centaurea stoebe",9.32,0.73,24,6.4,0.54,24,5.56,4.08,0.3556,NA,1.2,0.4572,0.964955903855436,-0.375864638331874
+"Fraxinus angustifolia","Robinia pseudoacacia",23,1.809696107,4,18.7,2.316246964,4,-9999,-9999,NA,0.9144,NA,17.798127429,NA,-0.206970692068609
+"Metrosideros polymorpha","Myrica cerifera",70,3,10,59,3,10,-9999,-9999,0.6096,NA,12,NA,NA,-0.17095779814364
+"Myrica cerifera","Schinus terebinthifolius",78.9125,0.603401292,36,93.7,19.3,5,-9999,-9999,NA,0.3048,NA,12,NA,0.171758545550632
+"Myrica cerifera","Schinus terebinthifolius",40.445,1.414715119,18,82.3,10.4,5,-9999,-9999,NA,0.3048,NA,12,NA,0.710428081213108
+"Populus deltoides","Tamarix chinensis",107.75,6.574889099,4,107,5.787918451,5,-9999,-9999,0.6096,NA,6,NA,NA,-0.00698489452195172
+"Populus deltoides","Tamarix chinensis",148.6,10.77806414,5,332.6,23.5894044,5,-9999,-9999,0.6096,NA,6,NA,NA,0.805682434475169
+"Populus deltoides","Tamarix chinensis",125,3.209361307,5,103.5,8.645808233,4,-9999,-9999,0.6096,NA,6,NA,NA,-0.188742124596878
+"Schizachyrium scoparium","Sorghum halepense",3.9756,0.2442,4,6.635,7.3134,4,-9999,-9999,0.3556,0.254,1.42388571428571,NA,NA,0.512182987672457
+"Taxodium distichum","Melaleuca quinquenervia",6.933333333,0.769786705,7,4.333333333,0.151738497,7,1,1,1.016,NA,16.5,NA,NA,-0.470003629274582

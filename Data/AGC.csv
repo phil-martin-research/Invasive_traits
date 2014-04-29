@@ -1,37 +1,37 @@
-Measure,Units,M_UI,SE_UI,SS_UI,M_I,SE_I,SS_I,Service,Related final service,Uninvaded richness,Invaded richness,Dominant native,Invasive,SLA_nat,SLA_Inv,H_Nat,H_inv
-Aboveground plant biomass,grams per metre squared,290,12.34952226,3,354.8,33.42858059,3,Aboveground carbon storage,Climate regulation,6,10,Eleocharis smallii,Typha x glauca,,,,
-Aboveground carbon storage,grams of carbon per metre squared,340,145,10,96,26,10,Aboveground carbon storage,Climate regulation,3,1,Artemisia tridentata,Bromus tectorum,5.9,,1.2192,0.6
-Aboveground carbon storage,grams of carbon per metre squared,670,290,10,22,2,10,Aboveground carbon storage,Climate regulation,2,1,Artemisia tridentata,Bromus tectorum,5.9,,1.2192,0.6
-Aboveground biomass,tonnes per hectare of biomass,1.7,0.1,3,8.6,1,3,Aboveground carbon storage,Protection from fire,-9999,-9999,Themeda trianda,Pennisetum polystachion,,,,0.3
-Aboveground biomass,tonnes per hectare of biomass,1.7,0.1,3,8.6,1,3,Aboveground carbon storage,Climate regulation,-9999,-9999,Themeda trianda,Pennisetum polystachion,,,,0.3
-Aboveground biomass,grams per metre squared,236.9497,19.1874,6,463.3428,36.628,6,Aboveground carbon storage,Climate regulation,,,Forb spp,Aegilops triuncialis,,,,
-Biomass,grams of dry matter per metre squared,357,43.68256708,6,917,62.05374015,6,Aboveground carbon storage,Climate regulation,8,1,Dactylis glomerata,Solidago gigantea,22.46666667,,1.2,2.49936
-Biomass,grams of dry matter per metre squared,252,51.4392846,6,891,41.64132563,6,Aboveground carbon storage,Climate regulation,8,1,Agrostis stolonifera,Solidago gigantea,,,0.2,2.49936
-Biomass,grams of dry matter per metre squared,438,69.81045767,6,760,69.40220938,6,Aboveground carbon storage,Climate regulation,8,1,Calamagrostis epigejos,Solidago gigantea,,,,2.49936
-Aboveground biomass,grams of biomass per metre squared,147.8012,24.7796,5,214.8749,22.9445,5,Aboveground carbon storage,Climate regulation,8,5,Krascheninnikovia lanata,Bromus tectorum,,,0,0.6
-Total aboveground biomass,grams of biomass per metre squared,58.2,54.21151989,18,5578.8,418.6072145,18,Aboveground carbon storage,Climate regulation,,,Festuca idahoensis,Cytisus scoparius,,16.20020394,0.6096,2
-Aboveground biomass,kilograms per metre squared,3.54003,0.55849,7,5.0667,0.92425,7,Aboveground carbon storage,Climate regulation,1,1,Taxodium distichum,Melaleuca quinquenervia,7.8,,40,8
-Aboveground biomass,grams per metre squared,281.75,25.83602137,5,307,23.66035714,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,,0.8,
-Aboveground biomass,grams per metre squared,227,12.71072382,5,222.25,20.71382389,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,,0.8,
-Aboveground biomass,grams per metre squared,248,19.91230775,5,160,13.60147051,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,,0.8,
-Aboveground biomass,grams per metre squared,161,9.708243919,5,139.5,11.23610253,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,,0.8,
-Aboveground biomass,grams per metre squared,138.55185,17.95442432,7,208.7871,14.492593,7,Aboveground carbon storage,Climate regulation,-9999,-9999,Avena fatua,Cynara cardunculus,,,1.2192,
-Aboveground biomass,kilograms per metre squared,0.56,0.670820393,5,2.39,1.587608264,5,Aboveground carbon storage,Climate regulation,9,1,Arrhenatherum elatius,Fallopia japonica,,,1.2,2
-Biomass,,64.5,4.82,24,71.59,4.82,24,Aboveground carbon storage,Intermediate Service,5.56,4.08,Festuca campestris,Centaurea stoebe,,,0.4572,1.2
-Aboveground biomass,kilograms per metre squared,0.39,0.335410197,5,1.65,1.788854382,5,Aboveground carbon storage,Climate regulation,10,6,Petasites hybridus,Fallopia japonica,,,0.575,2
-Aboveground carbon storage,grams of carbon per metre squared,160,49,10,48,6,10,Aboveground carbon storage,Climate regulation,3,3,Atriplex confertifolia,Bromus tectorum,,,0.9144,0.6
-Aboveground biomass,kilograms per metre squared,0.25,0.290688837,5,0.89,0.223606798,5,Aboveground carbon storage,Climate regulation,40,11,Agrostis stolonifera,Solidago gigantea,,,0.2,2.49936
-Aboveground biomass,,110.5207,10.0012,4,111.8765,18.125,4,Aboveground carbon storage,Climate regulation,4,1,Diospyros sandwicensis,Pennisetum setaceum,,,,1.0668
-Aboveground biomass,,244.38905,3.580123999,40,129.0636875,2.564227863,40,Aboveground carbon storage,Climate regulation,11,4,Anthemis arvensis,Oxalis pes-caprae,,,0.3,0.2
-Aboveground biomass,,1941.80858,131.92386,3,2405.3246,184.64098,3,Aboveground carbon storage,Climate regulation,1,1,Phragmites australis,Spartina alterniflora,18.33062063,,1.238,1.0668
-Aboveground biomass,,0.708925,0.156257138,20,0.480575,0.054350377,20,Aboveground carbon storage,Climate regulation,1,1,Phragmites australis,Spartina alterniflora,18.33062063,,1.238,1.0668
-Aboveground biomass,,950.3151,88.1727,12,1736.6926,248.4504,12,Aboveground carbon storage,Climate regulation,10.3127,1.3304,NA,Fallopia japonica,,,,2
-Aboveground biomass,,288.2334,11.6107,3,301.6107,9.2744,3,Aboveground carbon storage,Climate regulation,5,6,Molinia caerulea,Solidago gigantea,22.6839686,,1.2,2.49936
-Aboveground biomass,,31.7119,8.0157,12,88.624,32.0263,12,Aboveground carbon storage,Climate regulation,5.3175,1.9386,Acer saccharinum,Fallopia japonica,,,24.384,2
-Biomass,grams per metre squared,97.679,14.3237,7,114.3899,14.3236,7,Aboveground carbon storage,Climate regulation,11,6,Pascopyrum smithii,Centaurea diffusa,,,,0.3
-Aboveground biomass,,109.4624,32.0628,12,711.4058,264.5182,12,Aboveground carbon storage,Climate regulation,7.2073,2.5068,Acer saccharum,Fallopia japonica,9.804,,37,2
-Aboveground biomass,,42.0435,12.3299,5,69.75,15.27665,5,Aboveground carbon storage,Climate regulation,10.2829,5.8778,Bouteloua gracialis,Agropyron cristatum,,,,0.6096
-Aboveground biomass,,541.3493,69.6792,3,570.9676,97.5452,3,Aboveground carbon storage,Climate regulation,5,6,Carex acutiformis,Solidago gigantea,,,0.75,2.49936
-Aboveground biomass,,385.75,46.4576,3,361.987,62.698,3,Aboveground carbon storage,Climate regulation,5,6,Carex elata,Solidago gigantea,,,0.9,2.49936
-Aboveground biomass,,500,80,4,1522,464,4,Aboveground carbon storage,,1,1,Sagittaria latifolia,Phragmites australis,,18.33062063,1.49352,1.238
-Aboveground biomass,,500,80,4,1522,464,4,Aboveground carbon storage,Climate regulation,1,1,Sagittaria latifolia,Phragmites australis,,18.33062063,1.49352,1.238
+Measure,Units,M_UI,SE_UI,SS_UI,M_I,SE_I,SS_I,Service,Related final service,Uninvaded richness,Invaded richness,Dominant native,Invasive,SLA_nat,SLA_Inv,H_Nat,H_inv,Y,X
+Aboveground plant biomass,grams per metre squared,290,12.34952226,3,354.8,33.42858059,3,Aboveground carbon storage,Climate regulation,6,10,Eleocharis smallii,Typha x glauca,#N/A,#N/A,#N/A,#N/A,45.663007,-84.423323
+Aboveground carbon storage,grams of carbon per metre squared,340,145,10,96,26,10,Aboveground carbon storage,Climate regulation,3,1,Artemisia tridentata,Bromus tectorum,5.9,#N/A,1.2192,0.6,41,-117.58
+Aboveground carbon storage,grams of carbon per metre squared,670,290,10,22,2,10,Aboveground carbon storage,Climate regulation,2,1,Artemisia tridentata,Bromus tectorum,5.9,#N/A,1.2192,0.6,40.99,-117.86
+Aboveground biomass,tonnes per hectare of biomass,1.7,0.1,3,8.6,1,3,Aboveground carbon storage,Protection from fire,-9999,-9999,Themeda trianda,Pennisetum polystachion,#N/A,#N/A,#N/A,0.3,-13.15,130.65
+Aboveground biomass,tonnes per hectare of biomass,1.7,0.1,3,8.6,1,3,Aboveground carbon storage,Climate regulation,-9999,-9999,Themeda trianda,Pennisetum polystachion,#N/A,#N/A,#N/A,0.3,-13.15,130.65
+Aboveground biomass,grams per metre squared,236.9497,19.1874,6,463.3428,36.628,6,Aboveground carbon storage,Climate regulation,,,Forb spp,Aegilops triuncialis,#N/A,#N/A,#N/A,#N/A,38.925229,-122.412415
+Biomass,grams of dry matter per metre squared,357,43.68256708,6,917,62.05374015,6,Aboveground carbon storage,Climate regulation,8,1,Dactylis glomerata,Solidago gigantea,22.46666667,#N/A,1.2,2.49936,50.85,4.416667
+Biomass,grams of dry matter per metre squared,252,51.4392846,6,891,41.64132563,6,Aboveground carbon storage,Climate regulation,8,1,Agrostis stolonifera,Solidago gigantea,#N/A,#N/A,0.2,2.49936,50.865778,4.469376
+Biomass,grams of dry matter per metre squared,438,69.81045767,6,760,69.40220938,6,Aboveground carbon storage,Climate regulation,8,1,Calamagrostis epigejos,Solidago gigantea,#N/A,#N/A,#N/A,2.49936,50.453569,3.819122
+Aboveground biomass,grams of biomass per metre squared,147.8012,24.7796,5,214.8749,22.9445,5,Aboveground carbon storage,Climate regulation,8,5,Krascheninnikovia lanata,Bromus tectorum,#N/A,#N/A,0,0.6,40.13633333,-120.0731667
+Total aboveground biomass,grams of biomass per metre squared,58.2,54.21151989,18,5578.8,418.6072145,18,Aboveground carbon storage,Climate regulation,,,Festuca idahoensis,Cytisus scoparius,#N/A,16.20020394,0.6096,2,46.91666667,-123.2666667
+Aboveground biomass,kilograms per metre squared,3.54003,0.55849,7,5.0667,0.92425,7,Aboveground carbon storage,Climate regulation,1,1,Taxodium distichum,Melaleuca quinquenervia,7.8,#N/A,40,8,25.995081,-81.482849
+Aboveground biomass,grams per metre squared,281.75,25.83602137,5,307,23.66035714,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,#N/A,0.8,#N/A,43.58333333,-102.6333333
+Aboveground biomass,grams per metre squared,227,12.71072382,5,222.25,20.71382389,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,#N/A,0.8,#N/A,43.58333333,-102.6333333
+Aboveground biomass,grams per metre squared,248,19.91230775,5,160,13.60147051,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,#N/A,0.8,#N/A,43.58333333,-102.6333333
+Aboveground biomass,grams per metre squared,161,9.708243919,5,139.5,11.23610253,5,Aboveground carbon storage,Climate regulation,-9999,-9999,Poa pratensis,Bromus spp,9.9,#N/A,0.8,#N/A,43.58333333,-102.6333333
+Aboveground biomass,grams per metre squared,138.55185,17.95442432,7,208.7871,14.492593,7,Aboveground carbon storage,Climate regulation,-9999,-9999,Avena fatua,Cynara cardunculus,#N/A,#N/A,1.2192,#N/A,33.38,-117.5
+Aboveground biomass,kilograms per metre squared,0.56,0.670820393,5,2.39,1.587608264,5,Aboveground carbon storage,Climate regulation,9,1,Arrhenatherum elatius,Fallopia japonica,#N/A,#N/A,1.2,2,50.895427,4.416804
+Biomass,,64.5,4.82,24,71.59,4.82,24,Aboveground carbon storage,Intermediate Service,5.56,4.08,Festuca campestris,Centaurea stoebe,#N/A,#N/A,0.4572,1.2,50.75579,-120.465775
+Aboveground biomass,kilograms per metre squared,0.39,0.335410197,5,1.65,1.788854382,5,Aboveground carbon storage,Climate regulation,10,6,Petasites hybridus,Fallopia japonica,#N/A,#N/A,0.575,2,50.799751,4.414616
+Aboveground carbon storage,grams of carbon per metre squared,160,49,10,48,6,10,Aboveground carbon storage,Climate regulation,3,3,Atriplex confertifolia,Bromus tectorum,#N/A,#N/A,0.9144,0.6,40.57,-118.34
+Aboveground biomass,kilograms per metre squared,0.25,0.290688837,5,0.89,0.223606798,5,Aboveground carbon storage,Climate regulation,40,11,Agrostis stolonifera,Solidago gigantea,#N/A,#N/A,0.2,2.49936,50.862771,4.470963
+Aboveground biomass,,110.5207,10.0012,4,111.8765,18.125,4,Aboveground carbon storage,Climate regulation,4,1,Diospyros sandwicensis,Pennisetum setaceum,#N/A,#N/A,#N/A,1.0668,19.76805556,-155.9386111
+Aboveground biomass,,244.38905,3.580123999,40,129.0636875,2.564227863,40,Aboveground carbon storage,Climate regulation,11,4,Anthemis arvensis,Oxalis pes-caprae,#N/A,#N/A,0.3,0.2,39.13333333,26.51666667
+Aboveground biomass,,1941.80858,131.92386,3,2405.3246,184.64098,3,Aboveground carbon storage,Climate regulation,1,1,Phragmites australis,Spartina alterniflora,18.33062063,#N/A,1.238,1.0668,31.15,122
+Aboveground biomass,,0.708925,0.156257138,20,0.480575,0.054350377,20,Aboveground carbon storage,Climate regulation,1,1,Phragmites australis,Spartina alterniflora,18.33062063,#N/A,1.238,1.0668,31.41666667,121.8333333
+Aboveground biomass,,950.3151,88.1727,12,1736.6926,248.4504,12,Aboveground carbon storage,Climate regulation,10.3127,1.3304,NA,Fallopia japonica,#N/A,#N/A,#N/A,2,42.350045,-72.523112
+Aboveground biomass,,288.2334,11.6107,3,301.6107,9.2744,3,Aboveground carbon storage,Climate regulation,5,6,Molinia caerulea,Solidago gigantea,22.6839686,#N/A,1.2,2.49936,47.4,8.5
+Aboveground biomass,,31.7119,8.0157,12,88.624,32.0263,12,Aboveground carbon storage,Climate regulation,5.3175,1.9386,Acer saccharinum,Fallopia japonica,#N/A,#N/A,24.384,2,42.320954,-72.590103
+Biomass,grams per metre squared,97.679,14.3237,7,114.3899,14.3236,7,Aboveground carbon storage,Climate regulation,11,6,Pascopyrum smithii,Centaurea diffusa,#N/A,#N/A,#N/A,0.3,40.01388889,-105.2055556
+Aboveground biomass,,109.4624,32.0628,12,711.4058,264.5182,12,Aboveground carbon storage,Climate regulation,7.2073,2.5068,Acer saccharum,Fallopia japonica,9.804,#N/A,37,2,42.291723,-72.617741
+Aboveground biomass,,42.0435,12.3299,5,69.75,15.27665,5,Aboveground carbon storage,Climate regulation,10.2829,5.8778,Bouteloua gracialis,Agropyron cristatum,#N/A,#N/A,#N/A,0.6096,49.36666667,-107.8833333
+Aboveground biomass,,541.3493,69.6792,3,570.9676,97.5452,3,Aboveground carbon storage,Climate regulation,5,6,Carex acutiformis,Solidago gigantea,#N/A,#N/A,0.75,2.49936,47.4,8.5
+Aboveground biomass,,385.75,46.4576,3,361.987,62.698,3,Aboveground carbon storage,Climate regulation,5,6,Carex elata,Solidago gigantea,#N/A,#N/A,0.9,2.49936,47.4,8.5
+Aboveground biomass,,500,80,4,1522,464,4,Aboveground carbon storage,,1,1,Sagittaria latifolia,Phragmites australis,#N/A,18.33062063,1.49352,1.238,41.61666667,-83.23333333
+Aboveground biomass,,500,80,4,1522,464,4,Aboveground carbon storage,Climate regulation,1,1,Sagittaria latifolia,Phragmites australis,#N/A,18.33062063,1.49352,1.238,41.61666667,-83.23333333
